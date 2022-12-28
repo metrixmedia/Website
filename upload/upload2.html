@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <title>Upload to MetrixDrive</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+        <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+        <style> 
+          body {
+            background-image: linear-gradient(rgb(35, 31, 32, 1), rgba(35, 31, 32, 1));
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+          }
+        </style>
+        <style>
+          .buttons {
+            margin: 10%;
+            text-align: center;
+          }
+
+          .btn-hover {
+            width: 200px;
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            cursor: pointer;
+            margin: 20px;
+            height: 55px;
+            text-align: center;
+            border: none;
+            background-size: 300% 100%;
+
+            border-radius: 50px;
+            moz-transition: all 0.4s ease-in-out;
+            -o-transition: all 0.4s ease-in-out;
+            -webkit-transition: all 0.4s ease-in-out;
+            transition: all 0.4s ease-in-out;
+          }
+
+          .btn-hover:hover {
+            background-position: 100% 0;
+            moz-transition: all 0.4s ease-in-out;
+            -o-transition: all 0.4s ease-in-out;
+            -webkit-transition: all 0.4s ease-in-out;
+            transition: all 0.4s ease-in-out;
+          }
+
+          .btn-hover:focus {
+            outline: none;
+          }
+          
+          .btn-hover.color-10 {
+            background-image: linear-gradient(
+              to right,
+              #ed6ea0,
+              #ec8c69,
+              #f7186a,
+              #fbb03b
+            );
+            box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+          }
+        </style>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <title>MetrixDrive Upload</title>
+        <script type="text/javascript">
+
+    // The Browser API key obtained from the Google API Console.
+    // Replace with your own Browser API key, or your own key.
+    var developerKey = 'AIzaSyA1qcMgYiQ6ob7HpRNfFMM7ira4uCK8MJ8';
+
+    // The Client ID obtained from the Google API Console. Replace with your own Client ID.
+    var clientId = "923669733473-pltetqr4mq5jspev8k2ogpfsf52oedp1.apps.googleusercontent.com"
+
+    // Replace with your own project number from console.developers.google.com.
+    // See "Project number" under "IAM & Admin" > "Settings"
+    var appId = "923669733473";
+
+    // Scope to use to access user's Drive items.
+    var scope = ['https://www.googleapis.com/auth/drive.file'];
+
+    var pickerApiLoaded = false;
+    var oauthToken;
+
+    // Use the Google API Loader script to load the google.picker script.
+    function loadPicker() {
+      gapi.load('auth', {'callback': onAuthApiLoad});
+      gapi.load('picker', {'callback': onPickerApiLoad});
+    }
+
+    function onAuthApiLoad() {
+      window.gapi.auth.authorize(
+          {
+            'client_id': clientId,
+            'scope': scope,
+            'immediate': false
+          },
+          handleAuthResult);
+    }
+
+    function onPickerApiLoad() {
+      pickerApiLoaded = true;
+      createPicker();
+    }
+
+    function handleAuthResult(authResult) {
+      if (authResult && !authResult.error) {
+        oauthToken = authResult.access_token;
+        createPicker();
+      }
+    }
+
+    // Create and render a Picker object for searching images.
+    function createPicker() {
+      if (pickerApiLoaded && oauthToken) {
+      //  var view = new google.picker.View(google.picker.ViewId.DOCS);
+      //  view.setMimeTypes("pdf");
+        var picker = new google.picker.PickerBuilder()
+          .enableFeature(google.picker.Feature.SUPPORT_TEAM_DRIVES)
+            // Hide list of files on the Drive
+          .enableFeature(google.picker.Feature.MINE_ONLY)
+            // Hide the Upload option for Personal Drive
+            // .enableFeature (google.picker.Feature.NAV_HIDDEN)
+            .addView(new google.picker.DocsUploadView()
+            // Custom Stationary Folder
+            .setParent('0ABpefpuDWg8UUk9PVA'))
+
+          .addView(new google.picker.DocsView(google.picker.ViewId.DOCS)
+            .setEnableTeamDrives(true)
+            .setSelectFolderEnabled(false)
+            // Upload files to Custom Stationary Folder
+            .setParent('0ABpefpuDWg8UUk9PVA'))
+            // Select more than one file
+            // .enableFeature(google.picker.Feature.MULTISELECT_ENABLED)
+            .setAppId(appId)
+            .setOAuthToken(oauthToken)
+            // Displays Personal Drive folder
+            // .addView(view)
+
+            .setDeveloperKey(developerKey)
+            .setCallback(pickerCallback)
+            .build();
+         picker.setVisible(true);
+      }
+    }
+
+    // A simple callback implementation.
+    function pickerCallback(data) {
+      if (data.action == google.picker.Action.PICKED) {
+        var fileId = data.docs[0].name;
+          // Show the ID of the Google Drive folder
+          document.getElementById('result').innerHTML = fileId + ' has been successfully uploaded';
+      //    location.reload();
+      //  alert('The user selected: ' + fileId);
+      }
+    }
+    </script>
+  </head>
+  <body>
+    <div id="result"></div>
+    <p align="center"><font size="5" face="Quicksand" color="white">Vous allez désormais uploader un fichier vers votre disque MetrixDrive personnel. La limite de transfert de fichiers est de 750 Go/Jour avec une limite de 5 To par fichiers.</font>.</p>
+    <div class="buttons">
+      <button id="retour" class="btn-hover color-10">Retour à MetrixDrive</button>
+  </div>
+  <script type="text/javascript">
+    document.getElementById("retour").onclick = function () {
+        location.href = "https://mydrive.metrix.cf";
+    };
+</script>
+
+    <!-- The Google API Loader script. -->
+    <script type="text/javascript" src="https://apis.google.com/js/api.js?onload=loadPicker"></script>
+  </body>
+</html>
