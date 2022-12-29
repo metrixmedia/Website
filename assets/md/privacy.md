@@ -1,16 +1,16 @@
-# English
+## English
 Last updated: May 31, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
-## Interpretation and Definitions
+### Interpretation and Definitions
 
-### Interpretation
+#### Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-### Definitions
+#### Definitions
 For the purposes of this Privacy Policy:
 
 - Account means a unique account created for You to access our Service or parts of our Service.
@@ -29,16 +29,16 @@ For the purposes of this Privacy Policy:
 
 You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-## Collecting and Using Your Personal Data
+### Collecting and Using Your Personal Data
 
-### Types of Data Collected
+#### Types of Data Collected
 
-#### Personal Data
+##### Personal Data
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 - Usage Data
 
-#### Usage Data
+##### Usage Data
 Usage Data is collected automatically when using the Service.
 
 Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
@@ -47,7 +47,7 @@ When You access the Service by or through a mobile device, We may collect certai
 
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
-#### Tracking Technologies and Cookies
+##### Tracking Technologies and Cookies
 We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
 
 - Cookies or Browser Cookies. A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.
@@ -75,7 +75,7 @@ Purpose: These Cookies allow us to remember choices You make when You use the We
 
 For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
 
-### Use of Your Personal Data
+#### Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
 
 - To provide and maintain our Service, including to monitor the usage of our Service.
@@ -97,13 +97,13 @@ We may share Your personal information in the following situations:
 - With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile.
 - With Your consent: We may disclose Your personal information for any other purpose with Your consent.
 
-### Retention of Your Personal Data
+#### Retention of Your Personal Data
 
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
 The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
 
-### Transfer of Your Personal Data
+#### Transfer of Your Personal Data
 
 Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
 
@@ -111,15 +111,15 @@ Your consent to this Privacy Policy followed by Your submission of such informat
 
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
-### Disclosure of Your Personal Data
+#### Disclosure of Your Personal Data
 
-#### Business Transactions
+##### Business Transactions
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-#### Law enforcement
+##### Law enforcement
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-#### Other legal requirements
+##### Other legal requirements
 
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
@@ -129,23 +129,23 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 - Protect the personal safety of Users of the Service or the public
 - Protect against legal liability
 
-### Security of Your Personal Data
+#### Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-## Children's Privacy
+### Children's Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
-## Links to Other Websites
+### Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-## Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
@@ -153,7 +153,7 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Contact Us
+### Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
@@ -161,19 +161,19 @@ By email: [legal@metrixmedia.fr](mailto://legal@metrixmedia.fr)
 
 By visiting this page on our website: [metrixmedia.fr/privacy](https://metrixmedia.fr/privacy)
 
-# Français
+## Français
 Dernière mise à jour : 31 mai 2022
 
 Cette politique de confidentialité décrit nos politiques et procédures sur la collecte, l'utilisation et la divulgation de vos informations lorsque vous utilisez le service et vous informe sur vos droits en matière de confidentialité et sur la manière dont la loi vous protège.
 
 Nous utilisons vos données personnelles pour fournir et améliorer le service. En utilisant le Service, Vous acceptez la collecte et l'utilisation d'informations conformément à la présente Politique de confidentialité.
 
-## Interprétation et définitions
+### Interprétation et définitions
 
-### Interprétation
+#### Interprétation
 Les mots dont la lettre initiale est en majuscule ont des significations définies dans les conditions suivantes. Les définitions suivantes auront la même signification qu'elles apparaissent au singulier ou au pluriel.
 
-### Définitions
+#### Définitions
 Aux fins de la présente politique de confidentialité :
 
 - Compte désigne un compte unique créé pour vous permettre d'accéder à notre service ou à des parties de notre service.
@@ -192,16 +192,16 @@ Aux fins de la présente politique de confidentialité :
 
 Vous désigne la personne accédant ou utilisant le Service, ou la société ou toute autre entité juridique au nom de laquelle cette personne accède ou utilise le Service, selon le cas.
 
-## Collecte et utilisation de vos données personnelles
+### Collecte et utilisation de vos données personnelles
 
-### Types de données collectées
+#### Types de données collectées
 
-#### Données personnelles
+##### Données personnelles
 Lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables qui peuvent être utilisées pour vous contacter ou vous identifier. Les informations personnellement identifiables peuvent inclure, mais sans s'y limiter :
 
 - Données d'utilisation
 
-#### Données d'utilisation
+##### Données d'utilisation
 Les données d'utilisation sont collectées automatiquement lors de l'utilisation du service.
 
 Les données d'utilisation peuvent inclure des informations telles que l'adresse de protocole Internet de votre appareil (par exemple, l'adresse IP), le type de navigateur, la version du navigateur, les pages de notre service que vous visitez, l'heure et la date de votre visite, le temps passé sur ces pages, l'appareil unique identifiants et autres données de diagnostic.
@@ -210,7 +210,7 @@ Lorsque vous accédez au service par ou via un appareil mobile, nous pouvons col
 
 Nous pouvons également collecter des informations que votre navigateur envoie chaque fois que vous visitez notre service ou lorsque vous accédez au service par ou via un appareil mobile.
 
-#### Technologies de suivi et cookies
+##### Technologies de suivi et cookies
 Nous utilisons des cookies et des technologies de suivi similaires pour suivre l'activité sur notre service et stocker certaines informations. Les technologies de suivi utilisées sont des balises, des balises et des scripts pour collecter et suivre les informations et pour améliorer et analyser notre service. Les technologies que nous utilisons peuvent inclure :
 
 - Cookies ou Cookies de navigateur. Un cookie est un petit fichier placé sur Votre Appareil. Vous pouvez demander à Votre navigateur de refuser tous les Cookies ou de vous signaler l'envoi d'un Cookie. Cependant, si vous n'acceptez pas les cookies, vous ne pourrez peut-être pas utiliser certaines parties de notre service. À moins que vous n'ayez réglé les paramètres de votre navigateur pour qu'il refuse les cookies, notre service peut utiliser des cookies.
@@ -238,7 +238,7 @@ Finalité : ces cookies nous permettent de mémoriser les choix que vous faites
 
 Pour plus d'informations sur les cookies que nous utilisons et vos choix concernant les cookies, veuillez consulter notre Politique de cookies ou la section Cookies de notre Politique de confidentialité.
 
-### Utilisation de vos données personnelles
+#### Utilisation de vos données personnelles
 La Société peut utiliser les Données Personnelles aux fins suivantes :
 
 - Pour fournir et maintenir notre Service, y compris pour surveiller l'utilisation de notre Service.
@@ -260,13 +260,13 @@ Nous pouvons partager vos informations personnelles dans les situations suivante
 - Avec d'autres utilisateurs : lorsque vous partagez des informations personnelles ou interagissez autrement dans les espaces publics avec d'autres utilisateurs, ces informations peuvent être vues par tous les utilisateurs et peuvent être diffusées publiquement à l'extérieur. Si vous interagissez avec d'autres utilisateurs ou que vous vous inscrivez via un service de médias sociaux tiers, vos contacts sur le service de médias sociaux tiers peuvent voir votre nom, votre profil, vos photos et la description de votre activité. De même, les autres utilisateurs pourront voir les descriptions de Votre activité, communiquer avec Vous et consulter Votre profil.
 - Avec votre consentement : nous pouvons divulguer vos informations personnelles à toute autre fin avec votre consentement.
 
-### Conservation de vos données personnelles
+#### Conservation de vos données personnelles
 
 La Société ne conservera vos données personnelles que le temps nécessaire aux fins énoncées dans la présente politique de confidentialité. Nous conserverons et utiliserons vos données personnelles dans la mesure nécessaire pour nous conformer à nos obligations légales (par exemple, si nous sommes tenus de conserver vos données pour nous conformer aux lois applicables), résoudre les litiges et appliquer nos accords et politiques juridiques.
 
 La Société conservera également les données d'utilisation à des fins d'analyse interne. Les données d'utilisation sont généralement conservées pendant une période plus courte, sauf lorsque ces données sont utilisées pour renforcer la sécurité ou pour améliorer la fonctionnalité de notre service, ou lorsque nous sommes légalement tenus de conserver ces données pendant des périodes plus longues.
 
-### Transfert de vos données personnelles
+#### Transfert de vos données personnelles
 
 Vos informations, y compris les données personnelles, sont traitées dans les bureaux d'exploitation de la société et dans tout autre lieu où se trouvent les parties impliquées dans le traitement. Cela signifie que ces informations peuvent être transférées et conservées sur des ordinateurs situés en dehors de votre état, province, pays ou autre juridiction gouvernementale où les lois sur la protection des données peuvent différer de celles de votre juridiction.
 
@@ -274,15 +274,15 @@ Votre consentement à cette politique de confidentialité suivi de votre soumiss
 
 La société prendra toutes les mesures raisonnablement nécessaires pour garantir que vos données sont traitées en toute sécurité et conformément à la présente politique de confidentialité et aucun transfert de vos données personnelles n'aura lieu vers une organisation ou un pays à moins que des contrôles adéquats ne soient en place, y compris la sécurité de Vos données et autres informations personnelles.
 
-### Divulgation de vos données personnelles
+#### Divulgation de vos données personnelles
 
-#### Transactions commerciales
+##### Transactions commerciales
 Si la Société est impliquée dans une fusion, une acquisition ou une vente d'actifs, Vos Données Personnelles peuvent être transférées. Nous vous aviserons avant que vos données personnelles ne soient transférées et soumises à une politique de confidentialité différente.
 
-#### Forces de l'ordre
+##### Forces de l'ordre
 Dans certaines circonstances, la Société peut être tenue de divulguer vos données personnelles si la loi l'exige ou en réponse à des demandes valables d'autorités publiques (par exemple, un tribunal ou une agence gouvernementale).
 
-#### Autres exigences légales
+##### Autres exigences légales
 
 La Société peut divulguer vos données personnelles en croyant de bonne foi qu'une telle action est nécessaire pour :
 
@@ -292,23 +292,23 @@ La Société peut divulguer vos données personnelles en croyant de bonne foi qu
 - Protéger la sécurité personnelle des Utilisateurs du Service ou du public
 - Protéger contre la responsabilité légale
 
-### Sécurité de vos données personnelles
+#### Sécurité de vos données personnelles
 
 La sécurité de vos données personnelles est importante pour nous, mais rappelez-vous qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sécurisée à 100 %. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos données personnelles, nous ne pouvons garantir leur sécurité absolue.
 
-## Confidentialité des enfants
+### Confidentialité des enfants
 
 Notre service ne s'adresse pas aux personnes de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnellement identifiables auprès de personnes de moins de 13 ans. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des données personnelles, veuillez Nous contacter. Si nous apprenons que nous avons collecté des données personnelles auprès d'une personne de moins de 13 ans sans vérification du consentement parental, nous prenons des mesures pour supprimer ces informations de nos serveurs.
 
 Si nous devons compter sur le consentement comme base légale pour le traitement de vos informations et que votre pays exige le consentement d'un parent, nous pouvons exiger le consentement de votre parent avant de collecter et d'utiliser ces informations.
 
-## Liens vers d'autres sites Web
+### Liens vers d'autres sites Web
 
 Notre service peut contenir des liens vers d'autres sites Web qui ne sont pas exploités par nous. Si vous cliquez sur un lien tiers, vous serez dirigé vers le site de ce tiers. Nous vous conseillons vivement de consulter la politique de confidentialité de chaque site que vous visitez.
 
 Nous n'avons aucun contrôle et n'assumons aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques des sites ou services tiers.
 
-## Changements à cette politique de confidentialité
+### Changements à cette politique de confidentialité
 
 Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page.
 
@@ -316,7 +316,7 @@ Nous vous informerons par e-mail et/ou par un avis visible sur notre service, av
 
 Il vous est conseillé de consulter périodiquement cette politique de confidentialité pour tout changement. Les modifications apportées à cette politique de confidentialité entrent en vigueur lorsqu'elles sont publiées sur cette page.
 
-## Nous contacter
+### Nous contacter
 
 Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter :
 
