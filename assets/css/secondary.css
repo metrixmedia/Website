@@ -19,10 +19,15 @@
 	height: 100vh;
 	display: flex;
 	justify-content: center;
-	overflow: hidden;
 	font-family: 'Noto Sans', sans-serif;
 	color: white;
-	margin: 0% 15%;
+	accent-color: rgb(var(--hyperplexed-main-rgb));
+	margin: 5% 15%;
+  }
+
+  a {
+	color: rgb(var(--hyperplexed-main-rgb));
+	text-decoration: none;
   }
   
   * {
