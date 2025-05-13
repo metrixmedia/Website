@@ -1,2 +1,4 @@
 # MetrixMedia
-We are a developer team. From Python to HTML, we design Discord Bots, Websites or some kind of useless stuff.
+
+> From the frontend to the backend, MetrixMedia redefines digital creativity.
+> Mobile apps, websites, APIs, AI and High Tech.

@@ -56,16 +56,12 @@
 	cursor: pointer;
   }
   
-  .card-image {
-	display: flex;
+  .card-title {
 	align-items: center;
+	text-align: center;
 	justify-content: center;
 	position: relative;
 	z-index: 4;
-  }
-  
-  .card-image > img {
-	width: var(--logo-size);
   }
   
   .card-gradient {
